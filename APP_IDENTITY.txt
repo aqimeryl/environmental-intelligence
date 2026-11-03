@@ -1,0 +1,7 @@
+AQIMERYL ENVIRONMENTAL INTELLIGENCE — BUILD 1.0.1
+Entry point: app.py
+This is NOT the Healthcare Explorer.
+Expected title: Environmental Intelligence Explorer
+Expected sidebar: Environmental Intelligence · Build 1.0.1
+Data: neighbourhoods.csv, boundaries.geojson, environmental_data_template.csv
+There should be no facilities.csv file.
