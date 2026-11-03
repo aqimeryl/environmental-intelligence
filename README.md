@@ -23,3 +23,5 @@ python -m streamlit run app.py
 
 ## Included assets
 `app.py`, `requirements.txt`, `.streamlit/config.toml`, `data/neighbourhoods.csv` (158), `data/boundaries.geojson`, `data/environmental_data_template.csv`, `APP_IDENTITY.txt`. None of the healthcare facility files belongs in this repository.
+## Project Status
+AQIMERYL Environmental Intelligence is an exploratory research application developed under Nuvanitic. Source code is publicly visible for demonstration purposes. No open-source license is granted.
